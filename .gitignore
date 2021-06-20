@@ -4,6 +4,8 @@
 .*
 *.py.bak
 
+db.sqlite3
+
 
 /site/
 /htmlcov/
@@ -17,4 +19,4 @@ coverage.*
 
 !.github
 !.gitignore
-!.pre-commit-config.yaml
+!.pre-commit-config.yamlg
